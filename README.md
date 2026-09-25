@@ -13,8 +13,8 @@ Applications folder.
 The `.zip` on each release is what Grainge uses to update itself. You don't
 need to download it.
 
-Grainge runs on macOS 12 or later, on Apple silicon and Intel Macs. It is
-signed and notarized by Apple, so it opens without a security warning.
+Grainge runs on macOS 12 or later, on Apple silicon and Intel Macs. Apple has
+checked it, so it opens without a security warning.
 
 ## Opening a picture
 
